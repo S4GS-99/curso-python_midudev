@@ -70,7 +70,7 @@ Mira los cursos y participa en vivo en
 |**4. Lógica de Programación + Diccionarios** | [![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/midudev/curso-python/tree/main/04_logic)  | [![twitch](https://img.shields.io/badge/twitch-572364?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/videos/2373204722) |
 |**5. Expresiones Regulares** | [![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/midudev/curso-python/tree/main/05_regex)  | [![twitch](https://img.shields.io/badge/twitch-572364?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/videos/2385556729) |
 |**6. Fetching de Datos + Fechas + Clases** | [![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/midudev/curso-python/tree/main/06_request_ai_dates)  | [![twitch](https://img.shields.io/badge/twitch-572364?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/videos/2397854000) |
-|**7. Próximamente** (Miércoles 12 de Marzo)  |  | |
+|**7. Scraping de datos** | [![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/midudev/curso-python/tree/main/07_scraping)  | [![twitch](https://img.shields.io/badge/twitch-572364?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/videos/2409874203) |
 
 > [!NOTE]
 > El curso está actualmente en emisión. Nuevas clases todos los miércoles a las 18:00h (hora española).
@@ -84,30 +84,28 @@ Mira los cursos y participa en vivo en
 4. Strings ✓
 5. Listas ✓
 6. Tuplas ✓
-7. Sets ✓
 8. Diccionarios ✓
 9. Condicionales ✓
 10. Bucles ✓
 11. Funciones ✓
-12. Módulos
-13. List Comprehension
-14. Funciones de Orden Superior
-15. Errores de Tipos en Python ✓
-16. Python Date time ✓
-17. Manejo de Excepciones ✓
-18. Expresiones Regulares ✓
-19. Manejo de Archivos
-20. Python Package Manager
-21. Clases y Objetos
-22. Web Scraping
-23. Entorno Virtual
-24. Estadísticas
-25. Pandas
-26. Python web
+12. Errores de Tipos en Python ✓
+13. Python Date time ✓
+14. Manejo de Excepciones ✓
+15. Expresiones Regulares ✓
+16. Web Scraping ✓
+17. Clases y Objetos ✓
+18. Sets
+19. Módulos
+20. List Comprehension
+21. Funciones de Orden Superior
+22. Manejo de Archivos
+23. Python Package Manager
+24. Entorno Virtual
+25. Estadísticas
+26. Python para la Web + Django
 27. Python con MongoDB
-28. API
-29. Construyendo APIs
-30. Conclusiones
+28. APIs desde cero
+29. Pandas
 
 </details>
 
@@ -124,6 +122,9 @@ Mira los cursos y participa en vivo en
 ```bash
 # Verifica tu versión de Python
 python --version
+
+# En algunos sistemas operativos el ejecutable es otro
+python3 --version
 
 # Clona el repositorio
 git clone https://github.com/midudev/curso-python
@@ -168,10 +169,6 @@ cd curso-python
 - 🌐 [cursopython.dev](https://cursopython.dev) - Portal del curso
 - 📚 [Documentación Python](https://docs.python.org/es/) - Docs oficial
 - ⭐ [GitHub](https://github.com/midudev/curso-python) - Código fuente
-
-## ➕ Más información
-
-Descubre más en [cursopython.dev](https://cursopython.dev)
 
 ## 👥 Comunidad
 
